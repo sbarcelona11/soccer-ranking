@@ -61,6 +61,3 @@ Platform support
 ----------------
 This will be run in a unix-ish environment (OS X).
 
-Questions?
-----------
-Please email saguilera1608@gmail.com if you have any questions.
